@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Manu Raj. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+%40+NIT+Raipur+%F0%9F%8E%93;Skilled+in+ReactJS%2C+NextJS%2C+TypeScript+%F0%9F%92%AA;Front+End+Developer+%F0%9F%92%BB;8%C3%97+Hackathon+Finalist+%F0%9F%8E%AF;500+DSA+%40+LeetCode+%26+GFG+%E2%9C%8D%F0%9F%8F%BC"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+%40+PESITM+Shimoga+%F0%9F%8E%93;Skilled+in+ReactJS%2C+NextJS%2C+TypeScript+%F0%9F%92%AA;Back+End+Developer+%F0%9F%92%BB;8%C3%97+Hackathon+Finalist+%F0%9F%8E%AF;500+DSA+%40+LeetCode+%26+GFG+%E2%9C%8D%F0%9F%8F%BC"></a>
 </p>
 <!--Night Owl image-->
 <div>
@@ -26,7 +26,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kraniket901&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="manuraj04" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=manuraj04&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="manuraj04" style="padding-right:20px;" />
 </p>
 
 ---
