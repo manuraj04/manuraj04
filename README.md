@@ -30,7 +30,7 @@
 
 ### <p align="center">Hello, I'm Manu Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
 
-I'm a passionate Full Stack Developer from India, currently in my third year at PESITM Shimoga. I thrive on building elegant and efficient solutions for complex problems. My journey in tech is driven by a love for innovation and a constant desire to learn and grow.
+I'm a passionate Full Stack Developer from India, currently in my pre-final year at PESITM Shimoga. I thrive on building elegant and efficient solutions for complex problems. My journey in tech is driven by a love for innovation and a constant desire to learn and grow.
 
 - 💬 **Talk to me about:** Techno Music, Psychology, and anything tech-related.
 - 🤝 **Let's connect for:** Exciting hackathon adventures and collaborative projects.
