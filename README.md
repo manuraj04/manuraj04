@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there,%20I'm%20Manu%20Raj%20%F0%9F%91%8B&height=180&fontSize=70&fontAlignY=35" alt="Greeting Banner"/>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### <p align="center">Hello, I'm Manu Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
+### <p align="center">About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
 
 <p align="center">
 I'm a passionate Full Stack Developer from India, currently in my pre-final year at PESITM Shimoga. I thrive on building elegant and efficient solutions for complex problems. My journey in tech is driven by a love for innovation and a constant desire to learn and grow.
