@@ -4,21 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=twinkling&color=gradient&text=Manu%20Raj&height=180&fontSize=80&fontAlignY=35" alt="Header Banner"/>
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuraj04&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge&logo=star" alt="Profile views" />
-</p>
-
-<p align="center">
-    <a href="https://github.com/manuraj04?tab=followers">
-        <img src="https://img.shields.io/github/followers/manuraj04?style=for-the-badge&logo=github&label=Followers&color=3399FF" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/manuraj04/manuraj04/stargazers">
-        <img src="https://img.shields.io/github/stars/manuraj04/manuraj04?style=for-the-badge&logo=github&label=Stars&color=FFCC00" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/manuraj04/manuraj04/commits">
-        <img src="https://img.shields.io/github/last-commit/manuraj04/manuraj04?style=for-the-badge&logo=github&label=Last%20Commit&color=00b454" alt="GitHub Last Commit" />
-    </a>
-</p>
+<br>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=9415F3&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer+%F0%9F%9A%80;Crafting+robust+backend+systems+%F0%9F%92%BB;Hackathon+Enthusiast+%26+Winner+%F0%9F%8F%86;DSA+Problem+Solver+%F0%9F%A7%A0;Always+learning+and+growing!+%E2%9C%A8" alt="Typing SVG">
@@ -30,7 +16,9 @@
 
 ### <p align="center">Hello, I'm Manu Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
 
+<p align="center">
 I'm a passionate Full Stack Developer from India, currently in my pre-final year at PESITM Shimoga. I thrive on building elegant and efficient solutions for complex problems. My journey in tech is driven by a love for innovation and a constant desire to learn and grow.
+</p>
 
 - 💬 **Talk to me about:** Techno Music, Psychology, and anything tech-related.
 - 🤝 **Let's connect for:** Exciting hackathon adventures and collaborative projects.
@@ -66,7 +54,23 @@ I'm a passionate Full Stack Developer from India, currently in my pre-final year
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manuraj04&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge&logo=star" alt="Profile views" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/manuraj04?tab=followers">
+        <img src="https://img.shields.io/github/followers/manuraj04?style=for-the-badge&logo=github&label=Followers&color=3399FF" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/manuraj04/manuraj04/stargazers">
+        <img src="https://img.shields.io/github/stars/manuraj04/manuraj04?style=for-the-badge&logo=github&label=Stars&color=FFCC00" alt="GitHub Stars" />
+    </a>
+    <a href="https://github.com/manuraj04/manuraj04/commits">
+        <img src="https://img.shields.io/github/last-commit/manuraj04/manuraj04?style=for-the-badge&logo=github&label=Last%20Commit&color=00b454" alt="GitHub Last Commit" />
+    </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/manuraj04">
