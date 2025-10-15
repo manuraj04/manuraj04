@@ -1,15 +1,11 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header"/>
+</div>
 
-<a href="https://github.com/manuraj04">
-  <img src="https://capsule-render.vercel.app/api?type=twinkling&color=gradient&text=Manu%20Raj&height=180&fontSize=80&fontAlignY=35" alt="Header Banner"/>
-</a>
-
-<br>
-
+<div align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=9415F3&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer+%F0%9F%9A%80;Crafting+robust+backend+systems+%F0%9F%92%BB;Hackathon+Enthusiast+%26+Winner+%F0%9F%8F%86;DSA+Problem+Solver+%F0%9F%A7%A0;Always+learning+and+growing!+%E2%9C%A8" alt="Typing SVG">
 </a>
-
 </div>
 
 ---
@@ -46,6 +42,19 @@ I'm a passionate Full Stack Developer from India, currently in my pre-final year
 
 ---
 
+### 🚀 My Featured Projects
+
+<p align="center">
+  <a href="https://github.com/manuraj04/Portfolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuraj04&repo=Portfolio-Website&theme=tokyonight&show_owner=true" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/manuraj04/AI-Image-Generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuraj04&repo=AI-Image-Generation&theme=tokyonight&show_owner=true" alt="AI Image Generation" />
+  </a>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -56,11 +65,9 @@ I'm a passionate Full Stack Developer from India, currently in my pre-final year
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=manuraj04&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge&logo=star" alt="Profile views" />
-</p>
-
-<p align="center">
+  <br>
     <a href="https://github.com/manuraj04?tab=followers">
         <img src="https://img.shields.io/github/followers/manuraj04?style=for-the-badge&logo=github&label=Followers&color=3399FF" alt="GitHub Followers" />
     </a>
@@ -70,7 +77,7 @@ I'm a passionate Full Stack Developer from India, currently in my pre-final year
     <a href="https://github.com/manuraj04/manuraj04/commits">
         <img src="https://img.shields.io/github/last-commit/manuraj04/manuraj04?style=for-the-badge&logo=github&label=Last%20Commit&color=00b454" alt="GitHub Last Commit" />
     </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/manuraj04">
